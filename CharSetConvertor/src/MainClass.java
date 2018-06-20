@@ -3,7 +3,12 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
+/**********************************************************
+     * @author pravin patil                               *    
+     * @since  01-June-2018                               * 
+     * This class is used convert the file from one format* 
+     * to another provided format                         *  
+ **********************************************************/
 public final class MainClass {
 
     private static final String INPUT_CHARSET_DEFAULT = "CP1047";
