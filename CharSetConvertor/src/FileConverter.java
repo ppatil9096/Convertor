@@ -22,6 +22,12 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.EnumSet;
+/**********************************************************
+     * @author pravin patil                               *    
+     * @since  01-June-2018                               * 
+     * This class is used convert the file from one format* 
+     * to another provided format                         *  
+ **********************************************************/
 
 public class FileConverter {
 
